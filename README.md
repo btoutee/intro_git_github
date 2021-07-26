@@ -1,33 +1,8 @@
 # Introduction to git and GitHub
 
-Hello! 👋 I'm Kendra Oudyk
+Hello! 👋 I'm BERTRAMD TOUTÉE
 
-Git and GitHub are key tools for doing version control in both academia and industry. These tools can help researchers do more efficient, open, and reproducible work. In this material, we cover these topics:
-
-* What is distributed version control?
-* Why has it become so important in science and industry?;
-* How to track your own work using Git; and
-* How to share your work and collaborate with GitHub.
-
-
-## Pre-recorded lecture
-Here is my [pre-recorded lecture](https://youtu.be/b0ETTTKfu2Y) ([slides](https://github.com/koudyk/intro_git_github/blob/main/1-pre-recorded-material/pre-recorded_lecture_slides.pdf)) that goes over the topics listed above.
-
-
-## Before the in-class tutorial
-For this tutorial, you'll need
-
-1. To have watched the [pre-recorded lecture](https://youtu.be/b0ETTTKfu2Y)
-2. A Bash shell
-3. The version control system [Git](https://git-scm.com/)
-4. A text editor you’re comfortable with 
-5. A [GitHub](https://github.com/) account.
-6. A modern browser
-
-Before class, please follow the [installation instructions](https://github.com/koudyk/intro_git_github/blob/main/2-in-class-tutorial/2_installation_instructions.md) to make sure you have all these requirements.
-
-
-
+THIS REPO IS NOW MY PROPERTY HAHAAH
 
 
 ## Acknowledgements
